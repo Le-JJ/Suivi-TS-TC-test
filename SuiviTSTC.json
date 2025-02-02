@@ -1,5 +1,6 @@
 {
-  "version": "0.9.6",
-  "url": "https://www.icloud.com/shortcuts/49ee3bdf273346e997cafb40a38f51fe",
-  "changelog": "Selection automatique du dossier Notes si une autre note de suivi existe déjà"
+  "version": "0.9.6.1",
+  "url": "https://www.icloud.com/shortcuts/e38b068d91644146937e71b78e92505c",
+  "changelog": "Message d’information lors de l’installation\nModification du corps de la note de suivi pour les plus petits écrans\nRemplacement en un clic de l’ancien raccourci par le nouveau pour les mises à jour suivantes
+"
 }
