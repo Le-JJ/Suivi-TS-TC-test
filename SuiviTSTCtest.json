@@ -1,12 +1,12 @@
 {
-  "version": "2.1.2.0",
-  "url": "https://www.icloud.com/shortcuts/663907999f4a4deab197e78fa529aed9",
+  "version": "2.2.0",
+  "url": "https://www.icloud.com/shortcuts/80129dafd503496b9cb6562de78a8139",
   "changelog": [
-    "- Vous êtes déjà sur SelfService ? Ouvrez le raccourci depuis la page de votre service via le bouton Partager pour ne plus avoir à entrer vos horaires !\n",
+    "- Entrez votre salaire et découvrez combien vous rapporte votre TS/TC quotidien\n",
     "v2.0",
     "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
     "- Affichage systématique et simultané du TC avec et sans repos écourté",
-    "- Enregistrement dans Notes avec ou sans repos écourté, choix après le calcul",
+    "- Choix de l'enregistrement avec ou sans repos écourté après le calcul",
     "...",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
