@@ -2,7 +2,7 @@
   "version": "2.4.1",
   "url": "https://dub.sh/calctstc24",
   "changelog": [
-    "• Le type de contrat est demandé pour afficher plus précisément les montants nets\n",
+    "• Le type de contrat est demandé pour afficher plus précisément les montants nets (merci à Martial L.8)\n",
     "v2.3.1",
     "• Ajout du raccourci à l’écran d’accueil",
     "• Meilleure synchronisation des réglages entre raccourcis",
