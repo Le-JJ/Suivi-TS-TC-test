@@ -1,12 +1,13 @@
 {
-  "version": "2.3.1",
-  "url": "https://dub.sh/calctstc231",
+  "version": "2.4.1",
+  "url": "https://dub.sh/calctstc24",
   "changelog": [
+    "• Le type de contrat est demandé pour afficher plus précisément les montants nets\n",
+    "v2.3.1",
     "• Ajout du raccourci à l’écran d’accueil",
     "• Meilleure synchronisation des réglages entre raccourcis",
     "• Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
-    "• Corrections mineures",
-    "• Nouveaux raccourcis : Calendrier de la paie et Portail Pro. Voir \"Mes autres raccourcis\"\n",
+    "• Corrections mineures\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }
