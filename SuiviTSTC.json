@@ -1,13 +1,10 @@
 {
-  "version": "2.4.1",
-  "url": "https://dub.sh/calctstc24",
+  "version": "2.50",
+  "url": "https://dub.sh/calctstc25",
   "changelog": [
+    "• Vous pouvez désormais ajouter vos HIS à l'historique\n",
+    "v2.4",
     "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)\n",
-    "v2.3.1",
-    "• Ajout du raccourci à l’écran d’accueil",
-    "• Meilleure synchronisation des réglages entre raccourcis",
-    "• Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
-    "• Corrections mineures\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }
